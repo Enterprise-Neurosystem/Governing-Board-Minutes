@@ -1,0 +1,42 @@
+This records the minutes of the Enterprise Neurosytems Group Board Meeting held on October 4th, 2022. 
+
+# Attendees: 
+* Chair: Bill Wright - Red Hat - bwright@redhat.com
+* Vice Chair: John Overton - Kove
+* Technical Committee Leader/CTO: Dinesh Verma - IBM
+* Telecom Sector Rep: Tong Zhang - Intel 
+* Govt Sector Rep: Ryan Coffee - SLAC 
+* IT Sector Rep - Ganesh Harinath, Fiducia AI 
+
+The following motions were made during the meeting minutes and the result of voting as recorded below: 
+
+1.	Vote on creating a ENG repository to maintain minutes of Governance Board Meetings.
+(motion proposed and carried unanimously) 
+
+2. Motion on creating a succession plan for Board Members 
+2a. In case of incapacitation of the Chair of Board,  Vice-Chair-treasurer becomes the interim   Chair of Board until new elections. 
+2b. In case of incapacitation of the Vice-Chair-treasurer,  Technical Group Leader becomes the interim Vice-Chair-treasurer until new elections. 
+2c. In case of incapacitation of the Technical Group Leader,  the Chair  becomes the interim Technical Group Leader until new elections.
+2d. In case of incapacitation of any board member representing an industry, the remaining members of the board would nominate an interim member selected from the remaining board members, until new elections. 
+2e. In case of incapacitation of any board member, the board will hold an election to replace the position within a reasonable amount of time. 
+(motion proposed and carried unanimously) 
+
+
+3.The service period for each slate of newly elected Governance Board will be 4 years. 
+(motion proposed and carried unanimously) 
+
+4.	Governance Board should have a shadow member outside the board for each elected representative. 
+Motion proposed and rejected unanimously
+
+5.	The discussions of the Governance Board meeting should be recorded and released to community members.
+Motion proposed and rejected unanimously 
+
+6.	The process for new Governance Board elections should be initiated at the earliest possible community meeting.  
+Motion proposed and accepted unanimously 
+
+7.	The technical working group currently called Governance working group should be renamed to Community Best Practices working group. 
+Motion proposed and accepted unanimously 
+
+8.	Clarify that the work of community is being done by multiple technical committees by revising the community charter. 
+ 
+Motion proposed and carried unanimously 
