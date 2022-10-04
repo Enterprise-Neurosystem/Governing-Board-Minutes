@@ -1,6 +1,6 @@
 This records the minutes of the Enterprise Neurosytems Group Board Meeting held on October 4th, 2022. 
 
-# Attendees: 
+Attendees: 
 * Chair: Bill Wright - Red Hat - bwright@redhat.com
 * Vice Chair: John Overton - Kove
 * Technical Committee Leader/CTO: Dinesh Verma - IBM
@@ -10,8 +10,9 @@ This records the minutes of the Enterprise Neurosytems Group Board Meeting held 
 
 The following motions were made during the meeting minutes and the result of voting as recorded below: 
 
-1.	Vote on creating a ENG repository to maintain minutes of Governance Board Meetings.
+1. Governance Board to create a ENG repository to maintain minutes of Governance Board Meetings.
 (motion proposed and carried unanimously) 
+Note: This repository is the one for Governance Board. 
 
 2. Motion on creating a succession plan for Board Members 
 2a. In case of incapacitation of the Chair of Board,  Vice-Chair-treasurer becomes the interim   Chair of Board until new elections. 
