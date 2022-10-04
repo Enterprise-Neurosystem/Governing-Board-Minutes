@@ -4,13 +4,13 @@ Governance
 
 #Governance Board Members -- effective January 2022 
 
-Chair: Bill Wright - Red Hat - bwright@redhat.com
-Vice Chair: John Overton - Kove
-Technical Committee Leader/CTO: Dinesh Verma - IBM
-Telecom Sector Rep: Tong Zhang - Intel 
-Govt Sector Rep: Ryan Coffee - SLAC 
-Finance Sector Rep: Vish Hari - Meta
-IT Sector Rep - Ganesh Harinath, Fiducia AI 
+* Chair: Bill Wright - Red Hat - bwright@redhat.com
+* Vice Chair: John Overton - Kove
+* Technical Committee Leader/CTO: Dinesh Verma - IBM
+* Telecom Sector Rep: Tong Zhang - Intel 
+* Govt Sector Rep: Ryan Coffee - SLAC 
+* Finance Sector Rep: Vish Hari - Meta
+* IT Sector Rep - Ganesh Harinath, Fiducia AI 
 
 #Meetings
 
@@ -33,15 +33,17 @@ We expect to apply these general principles first to a well-defined set of open 
 
 We are also focused on expanding access to the value of AI across enterprises by improving simplicity and usability of the technologies. The customer experience impact of improvements in these areas will provide opportunities to progressively expand the reach of the Enterprise Neurosystem into upstream business domains.
 
-## Technical Committee
+The work of project is done by means of several technical committees. 
 
-The Technical Committee (TC) will be responsible for all aspects of oversight relating to coordinating the technical direction of the Project, including the architecture and sub-projects needed to achieve the Mission and Scope of the Project; for approving project or system proposals (including, but not limited to, incubation, deprecation, and changes to a sub-project’s scope) in accordance with the Contribution Process and Inbound Code Review Policy to be developed, approved and maintained by the TC; coordinating TC engagement with the end-user community with respect to requirements, high level architecture, implementation experiences, use cases, etc; working with other open source or open standards communities as needed; and establishing and enforcing community norms, workflows, issuing releases, and security issue reporting policies.
+## Technical Committees
 
-The Technical Committee will require a Technical Community Leader (TCL) to drive the development of the Project, including facilitation of community contributions to Project milestones and resolution of any Community disagreements of a technical nature, eg relating to the architecture or achievement of technical milestones. The Leader will also represent the overall Technical Committee within the Governing Board. In brief, the technical Community Leader should be an excellent project manager and diplomat in addition to possessing technical vision and skills.
+Each Technical Committee (TC) will be responsible for all aspects of oversight relating to coordinating the technical direction of a technical activity within the Project, including the architecture and sub-projects needed to achieve the Mission and Scope of the Project; for approving project or system proposals (including, but not limited to, incubation, deprecation, and changes to a sub-project’s scope) in accordance with the Contribution Process and Inbound Code Review Policy to be developed, approved and maintained by the TC; coordinating TC engagement with the end-user community with respect to requirements, high level architecture, implementation experiences, use cases, etc; working with other open source or open standards communities as needed; and establishing and enforcing community norms, workflows, issuing releases, and security issue reporting policies.
 
-For the first six months after adoption of Version 1 of this charter,adopted in August 2021, an evaluation body of 5-7 Committers, including the TCL, was constituted by self-nomination or nomination by other community members. Recognizing the unprecedented reach of AI and potential for harm through encoding of unconscious bias or lack of awareness of dangers faced by certain groups, the evaluation body was constituted with consideration for diversity across the broadest range of parameters possible.
+Each Technical Committee will require a Technical Community Leader (TCL) to drive the development of the Project, including facilitation of community contributions to Project milestones and resolution of any Community disagreements of a technical nature, eg relating to the architecture or achievement of technical milestones.  In brief, the technical Community Leader should be an excellent project manager and diplomat in addition to possessing technical vision and skills.
 
-Hereafter, with the adoption of Version 2 of this charter on Jan 7,2022, Technical Community Leaders (TCLs) will be nominated or can self-nominate from among the existing Committers. The TCL will be elected by the greatest plurality for a term of 1 year by a private electronic vote of community members who have documented contributions accepted within the previous 12 months (“Voters”).
+For the first six months after adoption of Version 1 of this charter,adopted in August 2021, an evaluation body of 5-7 Committers, including their TCLs, was constituted by self-nomination or nomination by other community members. Recognizing the unprecedented reach of AI and potential for harm through encoding of unconscious bias or lack of awareness of dangers faced by certain groups, the evaluation body was constituted with consideration for diversity across the broadest range of parameters possible.
+
+Hereafter, with the adoption of Version 2 of this charter on Jan 7,2022, Technical Community Leaders (TCLs) will be nominated or can self-nominate from among the existing Committers. Each TCL will be elected by the greatest plurality for a term of 1 year by a private electronic vote of community members who have documented contributions accepted within the previous 12 months (“Voters”).
 
 A Contributor may become a Committer by a majority approval of existing Committers, and at need may be removed by majority approval of the other existing Committers. Project Contributors may request the removal of a Committer by notifying the Governing Board, or the Committer can resign for their own reasons. The Technical Committee may add, refine and/or eliminate Technical Committee roles, as it sees fit. Expected additional roles include a Lead Architect for the overall community as well as Project Leads for individual sub-projects. 
 
@@ -71,6 +73,7 @@ The Vice Chair-Treasurer will be elected according to the same criteria and proc
 
 The Technical Community Leader’s role and selection process are described in the Technical Community section above.
 
+
 From time to time, the Board shall create industry Sectors (eg Education/Research, Financial Services, IT Vendor, etc). Voting for a given Sector representative to the Board will be limited to community members from that Sector. Individual members of the Enterprise Neurosystem community may elect to participate in any sectors of personal interest and expertise.
  
 The Sector representative to the Board shall be elected by those participating in that sector. In the case of getting more than 2 representatives from the same organization elected to the board by the various sectors, the 2 individuals receiving the greatest number of votes shall be seated on the Board, and the runners-up will be seated from the remaining sectors.  	
@@ -83,6 +86,7 @@ _Voting Procedures_
  * If a Governing Board Voter misses 3 meetings in a row without designating a proxy, their voting capacity will be suspended until they have attended 2 meetings in succession.
  * If a Governing Board Voter misses 4 or more meetings in a row, with or without a proxy, the Governing Board may remove that individual and replace them with someone with greater availability for the remainder of their term.
  * Elections and any other voting decisions require a quorum of 50% of voting members. Voting can be held during Board meetings, or by electronic means within a specified time period.
+
 
 Amendments to this or Policy documents require a majority vote of the Governing Board.
 
