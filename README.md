@@ -2,7 +2,7 @@
 This repository contains the minutes of the meetings of the Governance Board of the Enterprise NueroSystems Group
 Governance
 
-#Governance Board Members -- effective January 2022 
+## Governance Board Members -- effective January 2022 
 
 * Chair: Bill Wright - Red Hat - bwright@redhat.com
 * Vice Chair: John Overton - Kove
@@ -12,7 +12,7 @@ Governance
 * Finance Sector Rep: Vish Hari - Meta
 * IT Sector Rep - Ganesh Harinath, Fiducia AI 
 
-#Meetings
+# Meetings
 
 Workgroup meetings are held monthly. Attendance is limited to Governance Board Members and Invited Representatives. Please contact Bill Wright for dial-in information.
 
