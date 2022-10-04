@@ -12,7 +12,10 @@ Governance
 * Finance Sector Rep: Vish Hari - Meta
 * IT Sector Rep - Ganesh Harinath, Fiducia AI 
 
-# Meetings
+## Mailing List 
+The mailing list of the board is board@lists.enterpriseneurosystem.org
+
+## Meetings
 
 Workgroup meetings are held monthly. Attendance is limited to Governance Board Members and Invited Representatives. Please contact Bill Wright for dial-in information.
 
@@ -39,11 +42,11 @@ The work of project is done by means of several technical committees.
 
 Each Technical Committee (TC) will be responsible for all aspects of oversight relating to coordinating the technical direction of a technical activity within the Project, including the architecture and sub-projects needed to achieve the Mission and Scope of the Project; for approving project or system proposals (including, but not limited to, incubation, deprecation, and changes to a sub-project’s scope) in accordance with the Contribution Process and Inbound Code Review Policy to be developed, approved and maintained by the TC; coordinating TC engagement with the end-user community with respect to requirements, high level architecture, implementation experiences, use cases, etc; working with other open source or open standards communities as needed; and establishing and enforcing community norms, workflows, issuing releases, and security issue reporting policies.
 
-Each Technical Committee will require a Technical Community Leader (TCL) to drive the development of the Project, including facilitation of community contributions to Project milestones and resolution of any Community disagreements of a technical nature, eg relating to the architecture or achievement of technical milestones.  In brief, the technical Community Leader should be an excellent project manager and diplomat in addition to possessing technical vision and skills.
+Each Technical Committee will require a Technical Committee Leader (TCL) to drive the development of the Project, including facilitation of community contributions to Project milestones and resolution of any Community disagreements of a technical nature, eg relating to the architecture or achievement of technical milestones.  In brief, each Technical Committee Leader should be an excellent project manager and diplomat in addition to possessing technical vision and skills.
 
-For the first six months after adoption of Version 1 of this charter,adopted in August 2021, an evaluation body of 5-7 Committers, including their TCLs, was constituted by self-nomination or nomination by other community members. Recognizing the unprecedented reach of AI and potential for harm through encoding of unconscious bias or lack of awareness of dangers faced by certain groups, the evaluation body was constituted with consideration for diversity across the broadest range of parameters possible.
+For the first six months after adoption of Version 1 of this charter,adopted in August 2021, an evaluation body of 5-7 committees, including their TCLs, was constituted by self-nomination or nomination by other community members. Recognizing the unprecedented reach of AI and potential for harm through encoding of unconscious bias or lack of awareness of dangers faced by certain groups, the evaluation body was constituted with consideration for diversity across the broadest range of parameters possible.
 
-Hereafter, with the adoption of Version 2 of this charter on Jan 7,2022, Technical Community Leaders (TCLs) will be nominated or can self-nominate from among the existing Committers. Each TCL will be elected by the greatest plurality for a term of 1 year by a private electronic vote of community members who have documented contributions accepted within the previous 12 months (“Voters”).
+Hereafter, with the adoption of Version 2 of this charter on Jan 7,2022, Technical Committee Leaders (TCLs) will be nominated or can self-nominate from among the existing Committers. Each TCL will be elected by the greatest plurality for a term of 1 year by a private electronic vote of community members who have documented contributions accepted within the previous 12 months (“Voters”).
 
 A Contributor may become a Committer by a majority approval of existing Committers, and at need may be removed by majority approval of the other existing Committers. Project Contributors may request the removal of a Committer by notifying the Governing Board, or the Committer can resign for their own reasons. The Technical Committee may add, refine and/or eliminate Technical Committee roles, as it sees fit. Expected additional roles include a Lead Architect for the overall community as well as Project Leads for individual sub-projects. 
 
@@ -55,7 +58,7 @@ The Governing Board is responsible for setting the strategic direction of the Pr
 
 As a community-led open source project, the majority of work performed to develop and advance the Enterprise Neurosystem and its adoption is expected to be done by community members. This work may take the form of technical contributions as described in the Technical Committee section, as well as non-technical forms of contribution, including gathering feedback from Users, marketing, design, legal review and other activities. Where necessary expertise is not available in the community, the Project or its members may contract with commercial entities, including consultants, for incremental support.
 
-The Governing Board will be composed minimally of a Chair, Vice Chair-Treasurer (a single person), and the Technical Community Leader/CTO.  The Chair and Vice Chair-Treasurer may not be employed by the same organization, and no more than 2 Board members may be from the same organization, including its subsidiaries. The Committee may choose to admit additional members, such as Sector or Vertical representatives or a User Community representative, on either a voting or non-voting basis, under the Voting procedures described below. To ensure operational efficiency, the Board shall be composed of no more than 13 members in total.
+The Governing Board will be composed minimally of a Chair, Vice Chair-Treasurer (a single person), and a Technical Community Leader/CTO.  The Chair and Vice Chair-Treasurer may not be employed by the same organization, and no more than 2 Board members may be from the same organization, including its subsidiaries. The Committee may choose to admit additional members, such as Sector or Vertical representatives or a User Community representative, on either a voting or non-voting basis, under the Voting procedures described below. To ensure operational efficiency, the Board shall be composed of no more than 13 members in total.
 
 The Board may choose to form under its aegis operational workgroups to execute non-technical functions such as marketing, finance, etc, which may be composed of volunteers from the entire project community; such workgroups will report their proposals and activities to the Board.
 
@@ -66,17 +69,21 @@ The Community Voters will elect the Chair by private vote (greatest plurality) a
  * Lead Member company recruitment, with the assistance of other Governing Board and Technical Community members.
  * Regularly attend Technical Committee meetings and work closely with the Technical Community Leader to ensure ongoing alignment between the Governing Board and Technical Community.
 
-The Vice Chair-Treasurer will be elected according to the same criteria and process as the Chair. The Treasurer will have the following responsibilities.
+The Vice Chair-Treasurer will be elected according to the same criteria and process as the Chair. The Vice Chair-Treasurer will have the following responsibilities.
  * Work with the Board and its workgroups to develop an annual operating plan and budget as needed and report regularly on execution to plan.
  * Advise on and validate operating plan’s budget.
  * Review payments authorized by the Director each month, and report regularly on revenues and expenditures in relation to budget.
 
-The Technical Community Leader’s role and selection process are described in the Technical Community section above.
+The Technical Community Leader/CTO role would be to represent the set of all technical committees in the Governance Board. The technical Community Leader should be an excellent project manager and diplomat in addition to possessing technical vision and skills. 
 
+The Technical Community Leader/CTO will be elected according to the same criteria and process as the Chair. 
 
 From time to time, the Board shall create industry Sectors (eg Education/Research, Financial Services, IT Vendor, etc). Voting for a given Sector representative to the Board will be limited to community members from that Sector. Individual members of the Enterprise Neurosystem community may elect to participate in any sectors of personal interest and expertise.
  
 The Sector representative to the Board shall be elected by those participating in that sector. In the case of getting more than 2 representatives from the same organization elected to the board by the various sectors, the 2 individuals receiving the greatest number of votes shall be seated on the Board, and the runners-up will be seated from the remaining sectors.  	
+
+
+All Board Members will be elected by the greatest plurality for a term of 4 year by a private electronic vote of community members who have documented contributions accepted within the previous 12 months (“Voters”).
 
 The Committee may choose to define and formalize additional roles to assist the Chair or lead particular initiatives under the Voting procedures described below.
 
@@ -89,6 +96,14 @@ _Voting Procedures_
 
 
 Amendments to this or Policy documents require a majority vote of the Governing Board.
+
+## Succession Roles for Governance Board Members 
+As per Governance Board meeting on October 4, 2022, the following succession plan will be used for board members:
+* In case of incapacitation of the Chair of Board,  Vice-Chair-treasurer becomes the interim   Chair of Board until new elections. 
+* In case of incapacitation of the Vice-Chair-treasurer,  Technical Group Leader becomes the interim Vice-Chair-treasurer until new elections. 
+* In case of incapacitation of the Technical Group Leader,  the Chair  becomes the interim Technical Group Leader until new elections.
+* In case of incapacitation of any board member representing an industry, the remaining members of the board would nominate an interim member selected from the remaining board members, until new elections. 
+* In case of incapacitation of any board member, the board will hold an election to replace the position within a reasonable amount of time. 
 
 ## Community Assets and Intellectual Property
 
