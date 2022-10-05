@@ -2,7 +2,7 @@
 This repository contains the minutes of the meetings of the Governance Board of the Enterprise NueroSystems Group
 Governance
 
-## Governance Board Members -- effective January 2022 
+## Governing Board Members -- based on elections conducted on January 7th 2022 
 
 * Chair: Bill Wright - Red Hat - bwright@redhat.com
 * Vice Chair: John Overton - Kove
