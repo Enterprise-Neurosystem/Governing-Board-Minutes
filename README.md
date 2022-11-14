@@ -1,5 +1,7 @@
 # Governing-Board-Minutes
-This repository contains the minutes of the meetings of the Governance Board of the Enterprise NueroSystems Group
+The README of this repository contains the official community charter of Enterprise NeuroSystems Group. 
+Contents in the main branch of hte repository contain munutes of the Governing Board Members. 
+
 Governance
 
 ## Governing Board Members -- based on elections conducted on January 7th 2022 
